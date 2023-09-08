@@ -91,6 +91,14 @@ div.hero h2 {
     margin: 20px;
 }
 
+.container article.text-box {
+    display: inline-block;
+    width: 100%;
+    max-width: 340px;
+    text-align: justify;
+    margin: 20px;
+}
+
 @media screen and (min-width: 768px) {
     .container .div.text-box {
         margin: 10px;
